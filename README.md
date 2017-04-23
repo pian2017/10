@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E7%8B%AC%E5%AE%B6.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
   </tr>
   <tr> 
   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E9%AB%98%E6%B8%85.jpg" /></td>
@@ -64,6 +64,9 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=qin">请点击在线观看</a> <br/>
    </tr>
   <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E5%A6%82%E5%B1%B1.jpg" /></td>
+  </tr>
+  <tr> 
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
    </tr>
   <tr>
