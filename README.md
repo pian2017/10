@@ -1,6 +1,10 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
+        <td align=left>
+  本页永久短地址：https://git.io/v9Tdk<br/>
+    </tr>
+  <tr> 
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
   </tr>
   <tr> 
   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E9%AB%98%E6%B8%85.jpg" /></td>
